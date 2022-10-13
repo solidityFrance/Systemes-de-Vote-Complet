@@ -1,5 +1,5 @@
 # Systemes-de-Vote-Complet
 
-
-Vote.sol version du code complet sans commentaires.
-Voting.sol version du code avec les commentaires.
+à lire svp:
+Vote.sol version du code complet avec commentaires.
+Voting.sol version du code sans les commentaires.
